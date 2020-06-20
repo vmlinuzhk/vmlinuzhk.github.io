@@ -2,13 +2,11 @@
 layout: game
 title: After Burner Climax
 dllink: https://play.google.com/store/apps/details?id=com.sega.afterburnerclimax
+dlsource: Play Store
 ---
-After Burner Climax
-====
-
 Background
 ----------
-Part of the Sega Forever series of classic games, it's available for free on the Play Store - ad-supported, of course, with the option to pay HK$15 to remove third-party ads. It's a port of a game which was first released in arcades in 2006, and then on consoles in 2010, before coming to mobile in 2019.
+Part of the Sega Forever series of classic games, it's available for free - ad-supported, of course, with the option to pay HK$15 to remove third-party ads. It's a port of a game which was first released in arcades in 2006, and then on consoles in 2010, before coming to mobile in 2019.
 
 Gameplay
 --------
